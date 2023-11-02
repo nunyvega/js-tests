@@ -1,0 +1,27 @@
+{
+	"name": "js-tests",
+	"version": "1.0.0",
+	"description": "This repository is designed to help you learn JavaScript by doing. It contains a series of JavaScript files, each focusing on a different aspect of the language.",
+	"main": "numbers.js",
+	"scripts": {
+		"watch:numbers": "nodemon numbers.js",
+		"watch:arrays": "nodemon arrays.js",
+		"watch:booleans": "nodemon booleans.js",
+		"watch:objects": "nodemon objects.js",
+		"watch:strings": "nodemon strings.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/nunyvega/js-tests.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/nunyvega/js-tests/issues"
+	},
+	"homepage": "https://github.com/nunyvega/js-tests#readme",
+	"devDependencies": {
+		"nodemon": "^3.0.1"
+	}
+}

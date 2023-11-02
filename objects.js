@@ -126,6 +126,11 @@ function runTests() {
 		console.log("Test 14 failed :(");
 		return;
 	}
+
+	console.log("All tests passed!");
+	console.log("   \\o/");
+	console.log("    |");
+	console.log("   / \\");
 }
 
 runTests();

@@ -171,6 +171,11 @@ function runTests() {
 		return;
 	}
 	console.log("Test 19 passed!");
+
+	console.log("All tests passed!");
+	console.log("   \\o/");
+	console.log("    |");
+	console.log("   / \\");
 }
 
 runTests();

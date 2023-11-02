@@ -135,6 +135,11 @@ function runTests() {
 		return;
 	}
 	console.log("Test 15 passed!");
+
+	console.log("All tests passed!");
+	console.log("   \\o/");
+	console.log("    |");
+	console.log("   / \\");
 }
 
 runTests();
